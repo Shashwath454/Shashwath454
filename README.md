@@ -1,7 +1,7 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FMaruf001-MT%2FMaruf001-MT&psig=AOvVaw0gjT0f0q16ZBhg_lA7CV_I&ust=1706550634187000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNDAldXSgIQDFQAAAAAdAAAAABAD)](https://shashwath.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Shashwath Pai</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Flottieanimationchainstarters--59813501292017265%2F&psig=AOvVaw260iN4WOO0g5osN4cWTRQW&ust=1706550696785000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCLiGp4DTgIQDFQAAAAAdAAAAABAD")
+(img align="right" alt="Coding" width="400" src="https://www.pinterest.com/pin/lottieanimationchainstarters--59813501292017265/")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwath454&label=Profile%20views&color=0e75b6&style=flat" alt="shashwath454" /> </p>
 
