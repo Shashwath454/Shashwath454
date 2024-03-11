@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://beige-ava-31.tiiny.site](https://beige-ava-31.tiiny.site)
 
-- :1st_place_medal: Winner of HACKWAVE'23 NITK(Suratkal)
+- :1st_place_medal: Winner of HACKWAVE'23 NITK(Surathkal)
 
 - :1st_place_medal: 2nd Place Winner At CODEMEET'23 Srinivas(Mukka)
 
