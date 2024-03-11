@@ -9,11 +9,11 @@
 
 - Check my Portfolio here : https://shashwath454.github.io/Portfolio/
   
-- 🔭 I’m currently working on **MERN STACK**
+- 🔭 I’m currently working on **MERN STACK** AND  **GENAI**
 
-- 🌱 I’m currently learning **Data Structures And Algorithms**
+- 🌱 I’m currently learning **GENAI**
 
-- 💬 Ask me about **Python , MERN STACK**
+- 💬 Ask me about **Flask(Python) , MERN STACK**
 
 - 📫 How to reach me **shashwath454@gmail.com**
 
