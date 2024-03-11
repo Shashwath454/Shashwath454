@@ -19,6 +19,11 @@
 
 - 📄 Know about my experiences [https://beige-ava-31.tiiny.site](https://beige-ava-31.tiiny.site)
 
+- :1st_place_medal: Winner of HACKWAVE'23 NITK(Suratkal)
+
+- :1st_place_medal: 2nd Place Winner At CODEMEET'23 Srinivas(Mukka)
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shashwath_454" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shashwath_454" height="30" width="40" /></a>
