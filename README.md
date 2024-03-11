@@ -9,9 +9,9 @@
 
 - Check my Portfolio here : https://shashwath454.github.io/Portfolio/
   
-- 🔭 I’m currently working on **MERN STACK** AND  **GENAI**
+- 🔭 I’m currently working on **MERN STACK** AND  **GENAi**
 
-- 🌱 I’m currently learning **GENAI**
+- 🌱 I’m currently learning **GENAi**
 
 - 💬 Ask me about **Flask(Python) , MERN STACK**
 
