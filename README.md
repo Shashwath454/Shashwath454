@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shashwath Pai</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate fullstack developer from Bharat</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwath454&label=Profile%20views&color=0e75b6&style=flat" alt="shashwath454" /> </p>
@@ -9,9 +9,9 @@
 
 - Check my Portfolio here : https://shashwath454.github.io/Portfolio/
   
-- 🔭 I’m currently working on **MERN STACK** AND  **GENAi**
+- 🔭 I’m currently working on **MERN STACK** AND  **ML**
 
-- 🌱 I’m currently learning **GENAi**
+- 🌱 I’m currently learning **DSA** 
 
 - 💬 Ask me about **Flask(Python) , MERN STACK**
 
