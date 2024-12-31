@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Shashwath Pai</h1>
-<h3 align="center">A passionate fullstack developer from Bharat</h3>
+<h3 align="center">A passionate developer from Bharat</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashwath454&label=Profile%20views&color=0e75b6&style=flat" alt="shashwath454" /> </p>
@@ -8,12 +8,6 @@
 <p align="left"> <a href="https://twitter.com/shashwath_454" target="blank"><img src="https://img.shields.io/twitter/follow/shashwath_454?logo=twitter&style=for-the-badge" alt="shashwath_454" /></a> </p>
 
 - Check my Portfolio here : https://shashwath454.github.io/Portfolio/
-  
-- 🔭 I’m currently working on **MERN STACK** AND  **ML**
-
-- 🌱 I’m currently learning **DSA** 
-
-- 💬 Ask me about **Flask(Python) , MERN STACK**
 
 - 📫 How to reach me **shashwath454@gmail.com**
 
